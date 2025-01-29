@@ -1,7 +1,6 @@
 streamlit
 fitz
 gtts
-base64
 langchain
 langchain-community
 langchain-groq
