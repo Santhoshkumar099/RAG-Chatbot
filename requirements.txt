@@ -4,5 +4,6 @@ gtts
 langchain
 langchain-community
 langchain-groq
+sentence_transformers
 python-dotenv
 faiss-cpu
